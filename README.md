@@ -35,3 +35,5 @@ This project implements an intelligent customer support system that:
 - **LLM:** Groq (LLaMA 3.1)  
 - **Embeddings:** HuggingFace (MiniLM)  
 
+## Author:
+Shreya Sutar
