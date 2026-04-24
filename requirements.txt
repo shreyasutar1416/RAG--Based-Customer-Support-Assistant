@@ -1,0 +1,39 @@
+# Core Framework
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-chroma>=0.1.0
+langchain-openai>=0.2.0
+langchain-text-splitters>=0.3.0
+
+# Workflow Engine
+langgraph>=0.2.0
+
+# Vector Database
+chromadb>=0.5.0
+
+# Embeddings & ML
+sentence-transformers>=3.0.0
+torch>=2.0.0
+
+# LLM Support
+# Option 1: HuggingFace local inference (default - no external server needed)
+transformers>=4.40.0
+accelerate>=0.30.0
+
+# Option 2: OpenAI-compatible API (Ollama, etc.)
+openai>=1.0.0
+
+# Document Loading
+pypdf>=4.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Rich CLI Output
+rich>=13.0.0
+
+# Utilities
+tqdm>=4.66.0
+
